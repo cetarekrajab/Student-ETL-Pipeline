@@ -1,0 +1,14 @@
+2026-01-27 04:59:42,396 - INFO - Process started
+2026-01-27 04:59:42,424 - INFO - Dicts created
+2026-01-27 04:59:42,530 - INFO - Cleaning completed
+2026-01-27 04:59:42,652 - INFO - Transformation completed
+2026-01-27 04:59:42,950 - INFO - Matrix multiplication and row sums calculated and saved
+2026-01-27 04:59:43,286 - INFO - Summary report JSON written successfully
+2026-01-27 04:59:43,287 - INFO - Process completed
+2026-01-27 05:02:38,710 - INFO - Process started
+2026-01-27 05:02:38,736 - INFO - Dicts created
+2026-01-27 05:02:38,877 - INFO - Cleaning completed
+2026-01-27 05:02:39,037 - INFO - Transformation completed
+2026-01-27 05:02:39,376 - INFO - Matrix multiplication and row sums calculated and saved
+2026-01-27 05:02:39,713 - INFO - Summary report JSON written successfully
+2026-01-27 05:02:39,714 - INFO - Process completed
